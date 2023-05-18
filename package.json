@@ -1,0 +1,9 @@
+{
+  "name": "moni-web-hooks",
+  "version": "1.0.0",
+  "description": "The set of React.js hooks that Moni uses for web projects",
+  "main": "index.ts",
+  "keywords": ["moni", "web", "hooks"],
+  "author": "qmzik",
+  "license": "MIT"
+}
